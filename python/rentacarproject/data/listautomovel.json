@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "matricula": "AA-23-BP",
+        "marca": "audi",
+        "modelo": "a3",
+        "cor": "Azul",
+        "portas": 5,
+        "precoDiario": 25.0,
+        "cilindrada": 1400,
+        "potencia": 90
+    },
+    {
+        "id": 2,
+        "matricula": "BB-22-BB",
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "cor": "Azul",
+        "portas": 5,
+        "precoDiario": 25.0,
+        "cilindrada": 1400,
+        "potencia": 90
+    },
+    {
+        "id": 3,
+        "matricula": "CC-33-CC",
+        "marca": "Renault",
+        "modelo": "Clio",
+        "cor": "Vermelho",
+        "portas": 4,
+        "precoDiario": 20.0,
+        "cilindrada": 1000,
+        "potencia": 70
+    },
+    {
+        "id": 4,
+        "matricula": "DD-44-DD",
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "cor": "Preto",
+        "portas": 5,
+        "precoDiario": 35.0,
+        "cilindrada": 1800,
+        "potencia": 130
+    },
+    {
+        "id": 5,
+        "matricula": "EE-55-EE",
+        "marca": "Citroen",
+        "modelo": "C4",
+        "cor": "Cinza",
+        "portas": 5,
+        "precoDiario": 28.0,
+        "cilindrada": 1600,
+        "potencia": 110
+    },
+    {
+        "id": 6,
+        "matricula": "FF-66-FF",
+        "marca": "Fiat",
+        "modelo": "Panda",
+        "cor": "Branco",
+        "portas": 4,
+        "precoDiario": 18.0,
+        "cilindrada": 1200,
+        "potencia": 65
+    },
+    {
+        "id": 7,
+        "matricula": "GG-77-GG",
+        "marca": "Peugeot",
+        "modelo": "208",
+        "cor": "Azul",
+        "portas": 5,
+        "precoDiario": 22.0,
+        "cilindrada": 1400,
+        "potencia": 95
+    },
+    {
+        "id": 8,
+        "matricula": "HH-88-HH",
+        "marca": "Opel",
+        "modelo": "Corsa",
+        "cor": "Vermelho",
+        "portas": 3,
+        "precoDiario": 15.0,
+        "cilindrada": 1000,
+        "potencia": 60
+    },
+    {
+        "id": 9,
+        "matricula": "II-99-II",
+        "marca": "Hyundai",
+        "modelo": "i10",
+        "cor": "Cinza",
+        "portas": 5,
+        "precoDiario": 20.0,
+        "cilindrada": 1200,
+        "potencia": 75
+    },
+    {
+        "id": 10,
+        "matricula": "JJ-00-JJ",
+        "marca": "Kia",
+        "modelo": "Picanto",
+        "cor": "Branco",
+        "portas": 4,
+        "precoDiario": 17.0,
+        "cilindrada": 1000,
+        "potencia": 60
+    },
+    {
+        "id": 11,
+        "matricula": "15-46-GH",
+        "marca": "Honda",
+        "modelo": "civic",
+        "cor": "abd",
+        "portas": 5,
+        "precoDiario": 213546.0,
+        "cilindrada": 654,
+        "potencia": 654
+    },
+    {
+        "id": 12,
+        "matricula": "15-48-LK",
+        "marca": "honda",
+        "modelo": "civic",
+        "cor": "abdj",
+        "portas": 3,
+        "precoDiario": 75.0,
+        "cilindrada": 1500,
+        "potencia": 100
+    },
+    {
+        "id": 13,
+        "matricula": "EE-RR-23",
+        "marca": "Tesla",
+        "modelo": "s",
+        "cor": "branco",
+        "portas": 12,
+        "precoDiario": 100.0,
+        "cilindrada": 12,
+        "potencia": 21
+    },
+    {
+        "id": 14,
+        "matricula": "15-LK-89",
+        "marca": "Audi",
+        "modelo": "a4",
+        "cor": "branco",
+        "portas": 3,
+        "precoDiario": 65.0,
+        "cilindrada": 1000,
+        "potencia": 150
+    },
+    {
+        "id": 15,
+        "matricula": "65-PI-34",
+        "marca": "Austin Martin",
+        "modelo": "s",
+        "cor": "Azul",
+        "portas": null,
+        "precoDiario": 190.0,
+        "cilindrada": 12,
+        "potencia": 2
+    },
+    {
+        "id": 16,
+        "matricula": "15-PO-34",
+        "marca": "Austin Martin",
+        "modelo": "se",
+        "cor": "Azul",
+        "portas": 4,
+        "precoDiario": 190.0,
+        "cilindrada": 3000,
+        "potencia": 300
+    },
+    {
+        "id": 17,
+        "matricula": "47-77-TD",
+        "marca": "OPEL",
+        "modelo": "CORSA",
+        "cor": "CINZA",
+        "portas": 3,
+        "precoDiario": 35.0,
+        "cilindrada": 1200,
+        "potencia": 100
+    }
+]

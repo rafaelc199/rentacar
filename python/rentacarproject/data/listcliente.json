@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "nome": "Joao Silva",
+        "nif": 221099811,
+        "dataNascimento": "1980-12-12",
+        "telefone": "912345678",
+        "email": "joao.silva@example.com"
+    },
+    {
+        "id": 2,
+        "nome": "Paulo Ribeiro",
+        "nif": 334455667,
+        "dataNascimento": "2012-07-12",
+        "telefone": "923456789",
+        "email": "maria.santos@example.com"
+    },
+    {
+        "id": 3,
+        "nome": "Carlos Pereira",
+        "nif": 445566778,
+        "dataNascimento": "1975-03-18",
+        "telefone": "934567890",
+        "email": "carlos.pereira@example.com"
+    },
+    {
+        "id": 4,
+        "nome": "Ana Costa",
+        "nif": 556677889,
+        "dataNascimento": "1985-07-29",
+        "telefone": "945678901",
+        "email": "ana.costa@example.com"
+    },
+    {
+        "id": 5,
+        "nome": "Maria Oliveira",
+        "nif": 183456789,
+        "dataNascimento": "1975-04-03",
+        "telefone": "934567890",
+        "email": "maria.oliveira@example.com"
+    },
+    {
+        "id": 6,
+        "nome": "Pedro Costa",
+        "nif": 235678901,
+        "dataNascimento": "1982-11-24",
+        "telefone": "965432100",
+        "email": "pedro.costa@example.com"
+    },
+    {
+        "id": 7,
+        "nome": "Ana Silva",
+        "nif": 346789012,
+        "dataNascimento": "1990-03-15",
+        "telefone": "918273645",
+        "email": "ana.silva@example.com"
+    },
+    {
+        "id": 8,
+        "nome": "Joao Mendes",
+        "nif": 457890123,
+        "dataNascimento": "1968-07-08",
+        "telefone": "943215467",
+        "email": "joao.mendes@example.com"
+    },
+    {
+        "id": 9,
+        "nome": "Isabel Sousa",
+        "nif": 568901234,
+        "dataNascimento": "1954-09-21",
+        "telefone": "987654321",
+        "email": "isabel.sousa@example.com"
+    },
+    {
+        "id": 10,
+        "nome": "PEDRO SOUSA",
+        "nif": 578421536,
+        "dataNascimento": "1951-12-29",
+        "telefone": "954321765",
+        "email": "SDSS"
+    },
+    {
+        "id": 11,
+        "nome": "Sofia Pereira",
+        "nif": 780123456,
+        "dataNascimento": "2002-05-19",
+        "telefone": "923456781",
+        "email": "sofia.pereira@example.com"
+    },
+    {
+        "id": 12,
+        "nome": "David Martins",
+        "nif": 891234567,
+        "dataNascimento": "1995-10-06",
+        "telefone": "998765432",
+        "email": "david.martins@example.com"
+    },
+    {
+        "id": 13,
+        "nome": "Emanuel Ferreira",
+        "nif": 135684864654,
+        "dataNascimento": "2093-07-08",
+        "telefone": "",
+        "email": "pasidshhfsuf"
+    }
+]

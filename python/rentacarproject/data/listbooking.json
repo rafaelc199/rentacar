@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "data_inicio": "2023-11-27",
+        "data_fim": "2023-12-02",
+        "cliente_id": 1,
+        "automovel_id": 4,
+        "precoReserva": 148.75,
+        "numeroDias": 5
+    },
+    {
+        "id": 2,
+        "data_inicio": "2024-01-15",
+        "data_fim": "2024-01-20",
+        "cliente_id": 2,
+        "automovel_id": 3,
+        "precoReserva": 170.0,
+        "numeroDias": 5
+    },
+    {
+        "id": 3,
+        "data_inicio": "2024-02-10",
+        "data_fim": "2024-02-15",
+        "cliente_id": 3,
+        "automovel_id": 2,
+        "precoReserva": 106.25,
+        "numeroDias": 5
+    },
+    {
+        "id": 4,
+        "data_inicio": "2024-03-05",
+        "data_fim": "2024-03-10",
+        "cliente_id": 4,
+        "automovel_id": 1,
+        "precoReserva": 150.0,
+        "numeroDias": 5
+    },
+    {
+        "id": 5,
+        "data_inicio": "2024-09-20",
+        "data_fim": "2024-09-29",
+        "cliente_id": 2,
+        "automovel_id": 3,
+        "precoReserva": 270.0,
+        "numeroDias": 9
+    },
+    {
+        "id": 6,
+        "data_inicio": "2024-01-23",
+        "data_fim": "2024-03-25",
+        "cliente_id": 2,
+        "automovel_id": 3,
+        "precoReserva": 1860.0,
+        "numeroDias": 62
+    },
+    {
+        "id": 7,
+        "data_inicio": "2024-09-01",
+        "data_fim": "2024-09-07",
+        "cliente_id": 2,
+        "automovel_id": 5,
+        "precoReserva": 294.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 8,
+        "data_inicio": "2024-10-15",
+        "data_fim": "2024-10-22",
+        "cliente_id": 3,
+        "automovel_id": 4,
+        "precoReserva": 455.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 9,
+        "data_inicio": "2024-11-08",
+        "data_fim": "2024-11-14",
+        "cliente_id": 1,
+        "automovel_id": 1,
+        "precoReserva": 127.5,
+        "numeroDias": 7
+    },
+    {
+        "id": 10,
+        "data_inicio": "2024-12-24",
+        "data_fim": "2025-01-02",
+        "cliente_id": 5,
+        "automovel_id": 2,
+        "precoReserva": 420.0,
+        "numeroDias": 9
+    },
+    {
+        "id": 11,
+        "data_inicio": "2025-02-05",
+        "data_fim": "2025-02-11",
+        "cliente_id": 6,
+        "automovel_id": 6,
+        "precoReserva": 162.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 12,
+        "data_inicio": "2025-03-19",
+        "data_fim": "2025-03-26",
+        "cliente_id": 7,
+        "automovel_id": 9,
+        "precoReserva": 140.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 13,
+        "data_inicio": "2025-04-10",
+        "data_fim": "2025-04-17",
+        "cliente_id": 8,
+        "automovel_id": 3,
+        "precoReserva": 182.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 14,
+        "data_inicio": "2025-05-28",
+        "data_fim": "2025-06-04",
+        "cliente_id": 9,
+        "automovel_id": 7,
+        "precoReserva": 245.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 15,
+        "data_inicio": "2025-07-12",
+        "data_fim": "2025-07-19",
+        "cliente_id": 10,
+        "automovel_id": 10,
+        "precoReserva": 153.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 16,
+        "data_inicio": "2024-09-03",
+        "data_fim": "2024-09-10",
+        "cliente_id": 5,
+        "automovel_id": 6,
+        "precoReserva": 210.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 17,
+        "data_inicio": "2024-10-01",
+        "data_fim": "2024-10-08",
+        "cliente_id": 7,
+        "automovel_id": 9,
+        "precoReserva": 140.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 18,
+        "data_inicio": "2024-11-15",
+        "data_fim": "2024-11-22",
+        "cliente_id": 9,
+        "automovel_id": 3,
+        "precoReserva": 182.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 19,
+        "data_inicio": "2024-12-27",
+        "data_fim": "2025-01-03",
+        "cliente_id": 3,
+        "automovel_id": 5,
+        "precoReserva": 490.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 20,
+        "data_inicio": "2025-02-08",
+        "data_fim": "2025-02-15",
+        "cliente_id": 6,
+        "automovel_id": 2,
+        "precoReserva": 273.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 21,
+        "data_inicio": "2025-03-24",
+        "data_fim": "2025-04-01",
+        "cliente_id": 10,
+        "automovel_id": 1,
+        "precoReserva": 245.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 22,
+        "data_inicio": "2025-04-16",
+        "data_fim": "2025-04-23",
+        "cliente_id": 2,
+        "automovel_id": 7,
+        "precoReserva": 210.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 23,
+        "data_inicio": "2025-05-31",
+        "data_fim": "2025-06-07",
+        "cliente_id": 5,
+        "automovel_id": 4,
+        "precoReserva": 378.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 24,
+        "data_inicio": "2025-07-19",
+        "data_fim": "2025-07-26",
+        "cliente_id": 8,
+        "automovel_id": 10,
+        "precoReserva": 189.0,
+        "numeroDias": 7
+    },
+    {
+        "id": 25,
+        "data_inicio": "2024-08-05",
+        "data_fim": "2024-08-30",
+        "cliente_id": 9,
+        "automovel_id": 7,
+        "precoReserva": 412.5,
+        "numeroDias": 25
+    }
+]
